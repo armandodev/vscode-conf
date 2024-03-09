@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.productIconTheme": "fluent-icons",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "'Cascadia Code', monospace",
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.glyphMargin": false,
+  "workbench.sideBar.location": "right",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
