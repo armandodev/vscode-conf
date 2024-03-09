@@ -1,4 +1,4 @@
-# vscode-conf
+# Visual Studio Code Configuration
 
 ## EN
 
@@ -7,3 +7,9 @@
 ## ES
 
 - Este repositorio contiene el archivo de configuración json para Visual Studio Code.
+
+---
+
+# YouTube Video
+
+[![Youtube Video](https://img.youtube.com/vi/1J3w4X1J3bk/0.jpg)](https://www.youtube.com/watch?v=1J3w4X1J3bk)
